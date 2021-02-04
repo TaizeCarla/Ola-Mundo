@@ -1,8 +1,8 @@
 # Olá, Mundo!
 
  <p>Primeiro repositório do curso de git e github.</p>
-    <b>Escrevendo em negrito</b>
-    <strong>Testando Negrito, semânticamente</strong>
+    <p><b>Escrevendo em negrito</b></p>
+    <p><strong>Testando Negrit,semânticamente</strong></p>
  <p>Repositório criado durante uma aula ao vivo! </p>
-    <em> Testando itálico </em>
+    <p><em> Testando itálico </em></p>
  
